@@ -1,0 +1,43 @@
+/* font-family */
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Poppins:wght@300;500&family=The+Nautigal&display=swap');
+/* font-family */
+body{
+    font-family: 'Fjalla One', sans-serif;
+    background-color: #FFFFFF;
+
+
+}
+.cc{
+    display: flex;
+    margin:120px;
+}
+.dd{
+    width:50%;
+    text-align:justify;
+    
+}
+.ee{
+    width:265px;
+    margin-left:80px;
+    
+    
+}
+.bb{
+    font-size:2em;
+}
+.aa{
+    color:red;
+    font-size:2em;
+
+}
+.ff{
+    height: 44px;
+width: 196px;
+border:2px solid beige;
+border-radius:41px; 
+background: #E02C6D;
+font-size:1.1em;
+color:white;
+font-weight: bolder;
+
+}
